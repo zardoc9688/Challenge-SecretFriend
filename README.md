@@ -1,4 +1,4 @@
-#  Secret Santa Project
+#  Secret Friend Project
 
 This is a small project built with **JavaScript**, **HTML**, and **CSS** that allows you to:
 1. Add names to a friends list.
